@@ -1,0 +1,11 @@
+sudo apt-get install unrar
+pip install tf_clahe
+wget http://visual.ic.uff.br/proeng/thiagoelias/database.rar
+unrar x database.rar
+mv Imagens\ e\ Matrizes\ da\ Tese\ de\ Thiago\ Alves\ Elias\ da\ Silva  images
+mv images/Desenvolvimento\ da\ Metodologia images/training
+mv images/12\ Novos\ Casos\ de\ Testes images/testing
+mv images/training/DOENTES images/training/positive
+mv images/training/'SAUDÁVEIS' images/training/negative
+mv images/testing/DOENTES images/testing/positive
+mv images/testing/'SAUDÁVEIS' images/testing/negative
