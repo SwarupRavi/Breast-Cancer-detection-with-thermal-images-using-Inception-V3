@@ -69,7 +69,6 @@ Confusion Matrix
 
 <img width="539" alt="Screenshot 2024-04-03 at 4 18 44 PM" src="https://github.com/SwarupRavi/Breast-Cancer-detection-with-thermal-images-using-Inception-V3/assets/79323627/fd342bfb-6687-4812-a992-969b364b1bd1">
 
-# -----------------------------------------------------
 
 
 
